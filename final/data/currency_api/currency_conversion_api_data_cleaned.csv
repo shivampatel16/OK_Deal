@@ -1,0 +1,157 @@
+,Country/Currency,currency,value
+0,Australia Dollar,AUD,1.585149
+1,Australia Dollar,AUD,1.585149
+2,Great Britain Pound,GBP,0.850791
+3,Great Britain Pound,GBP,0.850791
+4,Euro,EUR,1.0
+5,Euro,EUR,1.0
+6,Japan Yen,JPY,128.014903
+7,Japan Yen,JPY,128.014903
+8,Switzerland Franc,CHF,1.042123
+9,Switzerland Franc,CHF,1.042123
+10,USA Dollar,USD,1.132945
+11,USA Dollar,USD,1.132945
+12,Afghanistan Afghani,AFN,108.65273
+13,Albania Lek,ALL,120.94242
+14,Algeria Dinar,DZD,157.460142
+15,Angola Kwanza,AOA,640.272721
+16,Argentina Peso,ARS,114.446324
+17,Armenia Dram,AMD,552.854786
+18,Aruba Florin,AWG,2.039868
+19,Azerbaijan New Manat,AZN,1.921299
+20,Bahamas Dollar,BSD,1.132545
+21,Bahrain Dinar,BHD,0.427161
+22,Bangladesh Taka,BDT,97.147972
+23,Barbados Dollar,BBD,2.286799
+24,Belarus Ruble,BYR,22205.731571
+25,Belize Dollar,BZD,2.282918
+26,Bermuda Dollar,BMD,1.132945
+27,Bhutan Ngultrum,BTN,84.784583
+28,Bolivia Boliviano,BOB,7.80904
+29,Bosnia Mark,BAM,1.956599
+30,Botswana Pula,BWP,13.223491
+31,Brazil Real,BRL,6.368176
+32,Brunei Dollar,BND,1.543748
+33,Bulgaria Lev,BGN,1.953767
+34,Burundi Franc,BIF,2260.226249
+35,CFA Franc BCEAO,XOF,655.975105
+36,CFA Franc BEAC,XAF,656.23821
+37,CFP Franc,XPF,119.642343
+38,Cambodia Riel,KHR,4609.955729
+39,Canada Dollar,CAD,1.444579
+40,Cape Verde Escudo,CVE,111.249881
+41,Cayman Islands Dollar,KYD,0.943792
+42,Chili Peso,CLP,945.397361
+43,China Yuan/Renminbi,CNY,7.214705
+44,Colombia Peso,COP,4473.44659
+45,Comoros Franc,KMF,494.389044
+46,Congo Franc,CDF,2269.289611
+47,Costa Rica Colon,CRC,711.249672
+48,Croatia Kuna,HRK,7.519471
+49,Cuba Convertible Peso,CUC,1.132945
+50,Cuba Peso,CUP,30.023055
+51,Czech Koruna,CZK,25.498029
+52,Denmark Krone,DKK,7.436144
+53,Djibouti Franc,DJF,201.619279
+54,Dominican Republich Peso,DOP,64.02394
+55,East Caribbean Dollar,XCD,3.061842
+56,Egypt Pound,EGP,17.797781
+57,El Salvador Colon,SVC,9.909984
+58,Ethiopia Birr,ETB,53.543128
+59,Falkland Islands Pound,FKP,0.844536
+60,Fiji Dollar,FJD,2.407486
+61,Gambia Dalasi,GMD,59.356269
+62,Georgia Lari,GEL,3.540449
+63,Ghana New Cedi,GHS,6.94528
+64,Gibraltar Pound,GIP,0.844536
+65,Guatemala Quetzal,GTQ,8.762123
+66,Guinea Franc,GNF,10564.716683
+67,Guyana Dollar,GYD,236.845221
+68,Haiti Gourde,HTG,111.976513
+69,Honduras Lempira,HNL,27.383014
+70,Hong Kong Dollar,HKD,8.828104
+71,Hungary Forint,HUF,362.940225
+72,Iceland Krona,ISK,146.598547
+73,India Rupee,INR,84.794795
+74,Indonesia Rupiah,IDR,16259.070645
+75,Iran Rial,IRR,47895.270131
+76,Iraq Dinar,IQD,1655.233358
+77,Israel New Shekel,ILS,3.572109
+78,Jamaica Dollar,JMD,176.094128
+79,Jordan Dinar,JOD,0.80323
+80,Kazakhstan Tenge,KZT,494.08428
+81,Kenya Shilling,KES,127.451155
+82,Kuwait Dinar,KWD,0.342785
+83,Kyrgyzstan Som,KGS,96.070261
+84,Laos Kip,LAK,12303.787515
+85,Lebanon Pound,LBP,1736.805382
+86,Lesotho Loti,LSL,18.126725
+87,Liberia Dollar,LRD,160.934657
+88,Libya Dinar,LYD,5.205897
+89,Macau Pataca,MOP,9.092096
+90,Macedonia Denar,MKD,61.498393
+91,Malagasy Ariary,MGA,4520.452822
+92,Malawi Kwacha,MWK,925.048942
+93,Malaysia Ringgit,MYR,4.761199
+94,Maldives Rufiyaa,MVR,17.504014
+95,Mauritania Ouguiya,MRO,404.461344
+96,Mauritius Rupee,MUR,49.511063
+97,Mexico Peso,MXN,24.087639
+98,Moldova Leu,MDL,20.048783
+99,Mongolia Tugrik,MNT,3238.205881
+100,Morocco Dirham,MAD,10.450109
+101,Mozambique New Metical,MZN,72.315983
+102,Myanmar Kyat,MMK,2021.673981
+103,NL Antilles Guilder,ANG,2.04123
+104,Namibia Dollar,NAD,18.126722
+105,Nepal Rupee,NPR,135.654933
+106,New Zealand Dollar,NZD,1.654145
+107,Nicaragua Cordoba Oro,NIO,39.908033
+108,Nigeria Naira,NGN,464.405777
+109,North Korea Won,KPW,1019.651336
+110,Norway Kroner,NOK,10.23559
+111,Oman Rial,OMR,0.436173
+112,Pakistan Rupee,PKR,198.690312
+113,Panama Balboa,PAB,1.132545
+114,Papua New Guinea Kina,PGK,3.999215
+115,Paraguay Guarani,PYG,7749.852552
+116,Peru Nuevo Sol,PEN,4.603131
+117,Philippines Peso,PHP,57.034175
+118,Poland Zloty,PLN,4.61571
+119,Qatar Rial,QAR,4.125021
+120,Romania New Lei,RON,4.947465
+121,Russia Rouble,RUB,83.656922
+122,Rwanda Franc,RWF,1138.610216
+123,Samoa Tala,WST,2.904466
+124,Sao Tome/Principe Dobra,STD,23449.684201
+125,Saudi Arabia Riyal,SAR,4.250487
+126,Serbia Dinar,RSD,117.548709
+127,Seychelles Rupee,SCR,14.983094
+128,Sierra Leone Leone,SLL,12601.18613
+129,Singapore Dollar,SGD,1.54425
+130,Solomon Islands Dollar,SBD,9.136711
+131,Somali Shilling,SOS,661.640034
+132,South Africa Rand,ZAR,17.946706
+133,South Korea Won,KRW,1329.670584
+134,Sri Lanka Rupee,LKR,228.783319
+135,St Helena Pound,SHP,1.56052
+136,Sudan Pound,SDG,495.664527
+137,Suriname Dollar,SRD,24.377587
+138,Swaziland Lilangeni,SZL,17.890235
+139,Sweden Krona,SEK,10.241691
+140,Syria Pound,SYP,1423.867262
+141,Taiwan Dollar,TWD,31.346558
+142,Tanzania Shilling,TZS,2609.173589
+143,Thailand Baht,THB,38.134786
+144,Tonga Pa'anga,TOP,2.58821
+145,Trinidad/Tobago Dollar,TTD,7.676018
+146,Tunisia Dinar,TND,3.26174
+147,Turkish New Lira,TRY,14.939037
+148,Uganda Shilling,UGX,4037.58763
+149,Ukraine Hryvnia,UAH,30.905052
+150,Uruguay Peso,UYU,49.850922
+151,United Arab Emirates Dirham,AED,4.16127
+152,Vanuatu Vatu,VUV,126.119049
+153,Vietnam Dong,VND,25734.856767
+154,Yemen Rial,YER,283.519401
+155,Zambia Kwacha,ZMK,10197.864714

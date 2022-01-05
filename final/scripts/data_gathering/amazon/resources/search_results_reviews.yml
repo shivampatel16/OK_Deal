@@ -1,0 +1,30 @@
+products:
+    css: 'div[data-hook="review"]'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        reviewer_name:
+            css: 'span.a-profile-name'
+            xpath: null
+            type: Text
+        review_title:
+            css: 'a[data-hook="review-title"]'
+            xpath: null
+            type: Text
+        review_rating:
+            css: 'i[data-hook="review-star-rating"]'
+            xpath: null
+            type: Text
+        review_details:
+            css: 'div.review-text-content:nth-child(1) span'
+            xpath: null
+            type: Text
+        review_date:
+            css: 'span[data-hook="review-date"]'
+            xpath: null
+            type: Text
+        review_helpful:
+            css: 'span.cr-vote-text'
+            xpath: null
+            type: Text
