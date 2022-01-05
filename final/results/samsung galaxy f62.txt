@@ -5,24 +5,24 @@ PLATFORM OVERVIEW
 
 		--------Amazon Products--------
 
-				Variant name : laser blue, 6gb ram, 128gb storage)
-						Price : 0.0
+				Variant name : laser blue, 6gb ram, 128gb storage
+						Price : 29999
 						Discount (%) : 22.0% 
-						Discount price : 0.0
+						Discount price : 23399
 						Avg rating : 3.8
 						Product URL : https://amazon.in/Samsung-Galaxy-Laser-128GB-Storage/dp/B0915T3F54/ref=sr_1_218?qid=1636521738&s=electronics&sr=1-218
 
-				Variant name : laser grey, 6gb ram, 128gb storage)
-						Price : 0.0
+				Variant name : laser grey, 6gb ram, 128gb storage
+						Price : 29999
 						Discount (%) : 21.0% 
-						Discount price : 0.0
+						Discount price : 23699
 						Avg rating : 3.8
 						Product URL : https://amazon.in/Samsung-Galaxy-Laser-128GB-Storage/dp/B0915TFJHN/ref=sr_1_275?qid=1636521749&s=electronics&sr=1-275
 
-				Variant name : laser green, 6gb ram, 128gb storage)
-						Price : 0.0
+				Variant name : laser green, 6gb ram, 128gb storage
+						Price : 29999
 						Discount (%) : 21.0% 
-						Discount price : 0.0
+						Discount price : 23699
 						Avg rating : 3.9
 						Product URL : https://amazon.in/Samsung-Galaxy-Laser-Green-Storage/dp/B0915T147X/ref=sr_1_291?qid=1636521753&s=electronics&sr=1-291
 
@@ -30,9 +30,9 @@ PLATFORM OVERVIEW
 		--------Flipkart Products--------
 
 				Variant name : Laser Green, 128 GB  6 GB RAM
-						Price : 0.0
+						Price : 29999
 						Discount (%) : 20.0% 
-						Discount price : 0.0
+						Discount price : 23999
 						Avg rating : 4.2
 						Product URL : https://www.flipkart.com/samsung-galaxy-f62-laser-green-128-gb/p/itm3659bc5ac2601?pid=MOBFZWSUEMTZDC7U&lid=LSTMOBFZWSUEMTZDC7UZERVOF&marketplace=FLIPKART&store=tyy%2F4io&srno=b_23_540&otracker=clp_metro_expandable_5_3.metroExpandable.METRO_EXPANDABLE_Shop%2BNow_mobile-phones-store_Q0QIS4SPJNLH_wp3&fm=organic&iid=7d47e4d3-d4d9-4312-ae8f-4a793b0f3326.MOBFZWSUEMTZDC7U.SEARCH&ppt=None&ppn=None&ssid=yqgc4pjfpc0000001636380310752
 
@@ -40,9 +40,9 @@ PLATFORM OVERVIEW
 		--------Croma Products--------
 
 				Variant name : 128GB ROM, 6GB RAM, SM-E625FZGDINS, Green
-						Price : 0.0
+						Price : 29999
 						Discount (%) : 20.0% 
-						Discount price : 0.0
+						Discount price : 23999
 						Avg rating : 5.0
 						Product URL : https://www.croma.com/samsung-galaxy-f62-128gb-rom-6gb-ram-sm-e625fzgdins-green-/p/233386
 
