@@ -12,3 +12,7 @@ The team behind OK Deal!:
   6. Yao-Chang Wang
 
 Please refer to ```README.pdf``` for the detailed steps to download the relevant data and to install and run this project. 
+
+Watch us present the pitch here - [OK Deal!'s Presentation Pitch](https://youtu.be/nwuACBbfhik)
+
+Watch the demonstration of our project here - [OK Deal!'s Project Demonstration](https://youtu.be/e4uirgoezNI) 
